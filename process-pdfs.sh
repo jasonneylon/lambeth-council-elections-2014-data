@@ -16,6 +16,6 @@ tabula -g pdfs/er-Statement-of-Persons-Nominated-STREATHAM-HILL-25-4-14.pdf -o d
 tabula -g pdfs/er-Statement-of-Persons-Nominated-STREATHAM-SOUTH-25-4-14.pdf -o data/streatham-south.csv
 tabula -g pdfs/er-Statement-of-Persons-Nominated-STREATHAM-WELLS-25-4-14.pdf -o data/streatham-wells.csv
 tabula -g pdfs/er-Statement-of-Persons-Nominated-THORNTON-25-4-14_0.pdf -o data/thornton.csv
-tabula -g pdfs/er-Statement-of-Persons-Nominated-THURLOW PARK-25-4-14.pdf -o data/thurlow park-.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-THURLOW-PARK-25-4-14.pdf -o data/thurlow-park.csv
 tabula -g pdfs/er-Statement-of-Persons-Nominated-TULSE-HILL-25-4-14.pdf -o data/tulse-hill.csv
 tabula -g pdfs/er-Statement-of-Persons-Nominated-VASSALL-25-4-14_0.pdf -o data/vassall.csv

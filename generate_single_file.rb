@@ -1,7 +1,11 @@
 require 'csv'
+require "net/http"
+require "uri"
+require "CGI"
+require "JSON"
 
-
-
+candidates_file_path = File.join(File.dirname(__FILE__), "data", "candidates.csv")
+File.delete(candidates_file_path) if File.exists?(candidates_file_path)
 all_candidates = []
 
 Dir.glob("./data/*.csv") do |file| 
@@ -34,7 +38,24 @@ Dir.glob("./data/*.csv") do |file|
   all_candidates = all_candidates.concat(candidates)
 end
 
-CSV.open(File.join(File.dirname(__FILE__), "data", "candidates.csv"), 'w') do |csv|
+
+all_candidates = all_candidates.map do |candidate|
+  p candidate
+  url_path = "http://nominatim.openstreetmap.org/search?q=#{CGI::escape(candidate[:postcode])}&format=json"
+  puts url_path
+  uri = URI.parse(url_path)
+
+  # Shortcut
+  response = Net::HTTP.get_response(uri)
+  location = JSON.parse(response.body)[0] || {"lat" => "", "lon" => ""}
+
+  puts location["lat"] 
+  puts location["lon"] 
+  candidate.merge({lat: location["lat"], lon: location["lon"]})
+end
+
+
+CSV.open(candidates_file_path, 'w') do |csv|
   csv << all_candidates.first.keys
   all_candidates.each do |c| 
     csv << c.values
