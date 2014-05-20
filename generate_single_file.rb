@@ -40,18 +40,18 @@ end
 
 
 all_candidates = all_candidates.map do |candidate|
-  p candidate
-  url_path = "http://nominatim.openstreetmap.org/search?q=#{CGI::escape(candidate[:postcode])}&format=json"
-  puts url_path
+  url_path = "http://mapit.mysociety.org/postcode/#{CGI::escape(candidate[:postcode])}"
   uri = URI.parse(url_path)
 
-  # Shortcut
-  response = Net::HTTP.get_response(uri)
-  location = JSON.parse(response.body)[0] || {"lat" => "", "lon" => ""}
+  sleep 1 #0.5
 
-  puts location["lat"] 
-  puts location["lon"] 
-  candidate.merge({lat: location["lat"], lon: location["lon"]})
+  response = JSON.parse(Net::HTTP.get_response(uri).body)
+  ward_id = response["shortcuts"]["ward"].to_s
+  council_id = response["shortcuts"]["council"].to_s
+  ward = response["areas"][ward_id]["name"] 
+  council = response["areas"][council_id]["name"]
+  p candidate[:party] + ": " + ward + ", " + council
+  candidate.merge({lives_in_ward: ward, lives_in_council: council })
 end
 
 
