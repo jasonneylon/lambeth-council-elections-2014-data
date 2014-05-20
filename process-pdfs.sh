@@ -1,0 +1,21 @@
+tabula -g pdfs/er-Statement-of-Persons-Nominated-BISHOPS-25-4-14.pdf -o data/bishops.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-BRIXTON-HILL-25-4-14.pdf -o data/brixton-hill.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-CLAPHAM-COMMON-25-4-14.pdf -o data/clapham-common.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-CLAPHAM-TOWN-25-4-14_0.pdf -o data/clapham-town.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-COLDHARBOUR-25-4-14.pdf -o data/coldharbour.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-FERNDALE-25-4-14_1.pdf -o data/ferndale.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-GIPSY-HILL-25-4-14.pdf -o data/gipsy-hill.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-HERNE-HILL-25-4-14.pdf -o data/herne-hill.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-KNIGHTS-HILL-25-4-14.pdf -o data/knights-hill.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-LARKHALL-25-4-14.pdf -o data/larkhall.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-OVAL-25-4-14.pdf -o data/oval.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-PRINCES-25-4-14.pdf -o data/princes.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-ST-LEONARDS-25-4-14.pdf -o data/st-leonards.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-STOCKWELL-25-4-14.pdf -o data/stockwell.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-STREATHAM-HILL-25-4-14.pdf -o data/streatham-hill.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-STREATHAM-SOUTH-25-4-14.pdf -o data/streatham-south.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-STREATHAM-WELLS-25-4-14.pdf -o data/streatham-wells.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-THORNTON-25-4-14_0.pdf -o data/thornton.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-THURLOW PARK-25-4-14.pdf -o data/thurlow park-.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-TULSE-HILL-25-4-14.pdf -o data/tulse-hill.csv
+tabula -g pdfs/er-Statement-of-Persons-Nominated-VASSALL-25-4-14_0.pdf -o data/vassall.csv
