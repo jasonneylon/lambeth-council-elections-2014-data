@@ -1,290 +1,1 @@
-ward,surname,firstnames,party,postcode,lives_in_ward,lives_in_council
-bishops,Braithwaite,Diana Elma,Liberal Democrats,SW8 1QU,Oval,Lambeth Borough Council
-bishops,Brightbart,Samuel Thomas,The Green Party,SE21 8EZ,Thurlow Park,Lambeth Borough Council
-bishops,Craig,Kevin,Labour Party Candidate,SW4 6NP,Larkhall,Lambeth Borough Council
-bishops,Croft,Clive Murray,The Green Party,SE1 7RB,Bishop's,Lambeth Borough Council
-bishops,Frost,David Alan,Conservative Party Candidate,SE11 4AA,Prince's,Lambeth Borough Council
-bishops,Gorissen,Bart,The Green Party,SW4 6DZ,Clapham Town,Lambeth Borough Council
-bishops,Hanney,Matthew Thomas,Liberal Democrats,SW9 0LH,Oval,Lambeth Borough Council
-bishops,Harrison,Edward Jon,Conservative Party,SE11 4EH,Prince's,Lambeth Borough Council
-bishops,Hayes,Andrew Robert,UK Independence Party (UKIP),SE11 6BY,Prince's,Lambeth Borough Council
-bishops,Kind,Benjamin,Labour Party Candidate,SW4 6LX,Larkhall,Lambeth Borough Council
-bishops,Morris,Elsbeth Angela,Trade Unionists and Socialists Coaltion,SW9 9PT,Ferndale,Lambeth Borough Council
-bishops,Moseley,Jennifer,Labour Party Candidate,SE1 9NS,Bishop's,Lambeth Borough Council
-bishops,Rotherham,Lee Stuart,Conservative Party Candidate,SE1 7BW,Bishop's,Lambeth Borough Council
-bishops,Truesdale,Peter Jonathan,Liberal Democrats,SE11 4NP,Prince's,Lambeth Borough Council
-brixton-hill,Bainbridge,Lisa,Trade Unionists and Socialists Coaltion,SW9 6BS,Oval,Lambeth Borough Council
-brixton-hill,Baker,Roger Charles,The Green Party,SW2 1QZ,Brixton Hill,Lambeth Borough Council
-brixton-hill,Calder,James Matthew,Conservative Party Candidate,SW9 6UW,Vassall,Lambeth Borough Council
-brixton-hill,Child,Andrew James,The Green Party,SW2 4DS,Brixton Hill,Lambeth Borough Council
-brixton-hill,Garden,Adrian,Labour Party Candidate,SW2 5HD,Brixton Hill,Lambeth Borough Council
-brixton-hill,Gregory,Paul A,UK Independence Party (UKIP),SW12 0ED,Thornton,Lambeth Borough Council
-brixton-hill,Keating,Christopher Jospeh,Liberal Democrats,SW16 2DR,Streatham Wells,Lambeth Borough Council
-brixton-hill,Maffei,Elizabeth Anne,Liberal Democrats,SW4 7NN,Ferndale,Lambeth Borough Council
-brixton-hill,Mehri,Betiel,The Green Party,SW9 8NW,Coldharbour,Lambeth Borough Council
-brixton-hill,Nosegbe,Florence,Labour Party Candidate,SW9 8TW,Coldharbour,Lambeth Borough Council
-brixton-hill,Pritchard,Adam James,Liberal Democrats,SW2 5XL,Brixton Hill,Lambeth Borough Council
-brixton-hill,Richardson,Alex,Trade Unionists and Socialists Coaltion,SE27 0PQ,Knight's Hill,Lambeth Borough Council
-brixton-hill,Tankard,Charles Stephen,Conservative Party Candidate,SW2 4DL,Brixton Hill,Lambeth Borough Council
-brixton-hill,Tiedemann,Martin,Labour Party Candidate,SW2 5BA,Brixton Hill,Lambeth Borough Council
-brixton-hill,Walters,Jessica,Trade Unionists and Socialists Coaltion,SE27 0PQ,Knight's Hill,Lambeth Borough Council
-brixton-hill,Woolley,Michael John,Conservative Party Candidate,SW4 8AE,Clapham Common,Lambeth Borough Council
-clapham-common,Briggs,Timothy Peter,Conservative Party Candidate,SW4 9RJ,Clapham Common,Lambeth Borough Council
-clapham-common,Bryant,Matthew,Liberal Democrats,SW2 4NR,Streatham Hill,Lambeth Borough Council
-clapham-common,Cutler,Hannah,The Green Party,SW4 0EE,Clapham Town,Lambeth Borough Council
-clapham-common,Drage,Simon David,Liberal Democrats,SW16 2EH,Streatham Wells,Lambeth Borough Council
-clapham-common,Gentry,Bernard Arthur,Conservative Party Candidate,SW4 0AT,Clapham Town,Lambeth Borough Council
-clapham-common,Goodwin,Timothy,Labour Party Candidate,SW4 6DN,Clapham Town,Lambeth Borough Council
-clapham-common,Hartwell,Nichola Dame,Labour Party Candidate,SE11 4JP,Prince's,Lambeth Borough Council
-clapham-common,Hayat-khan,Ruhi,Liberal Democrats,SW16 2TS,Streatham Wells,Lambeth Borough Council
-clapham-common,Kelly,Peter,The Green Party,SW4 9ET,Clapham Common,Lambeth Borough Council
-clapham-common,Nathanson,Louise Roberta,Conservative Party Candidate,SW4 9JX,Clapham Common,Lambeth Borough Council
-clapham-common,Pascoe,Jack,Labour Party Candidate,SW2 4HD,Streatham Hill,Lambeth Borough Council
-clapham-common,Selander,Kerstin Elaine,The Green Party,SW4 0JW,Clapham Town,Lambeth Borough Council
-clapham-common,Waters,Anna Maria,UK Independence Party (UKIP),SW16 1RE,St Leonard's,Lambeth Borough Council
-clapham-town,Bond,Oliver Rupert,The Socialist Party (GB),KT2 6PX,Norbiton,Kingston upon Thames Borough Council
-clapham-town,Bray,Linda,Labour Party Candidate,SW4 9PB,Clapham Common,Lambeth Borough Council
-clapham-town,Ginnett,Hannah Elizabeth,Conservative Party Candidate,SW2 1JL,Coldharbour,Lambeth Borough Council
-clapham-town,Grender,Rosalind Mary,Liberal Democrats,SW4 0ES,Clapham Town,Lambeth Borough Council
-clapham-town,Hall,Julian,The Green Party,SW4 0EE,Clapham Town,Lambeth Borough Council
-clapham-town,Haselden,Nigel,Labour Party Candidate,SW4 0RH,Clapham Town,Lambeth Borough Council
-clapham-town,Keenan,Gerard John,The Green Party,SW4 0EE,Clapham Town,Lambeth Borough Council
-clapham-town,Lowe,Sebastian Michael,Conservative Party Candidate,SW4 6JZ,Clapham Town,Lambeth Borough Council
-clapham-town,Murdoch,Cameron Iain,UK Independence Party (UKIP),SW2 4NE,Thornton,Lambeth Borough Council
-clapham-town,Penning,Colin Douglas,Liberal Democrats,SW16 1EZ,Streatham Wells,Lambeth Borough Council
-clapham-town,Prideaux,Marion Claire,The Green Party,SW4 0RJ,Clapham Town,Lambeth Borough Council
-clapham-town,Wallace,Gareth Robert,Conservative Party Candidate,SW8 2DW,Stockwell,Lambeth Borough Council
-clapham-town,Wellbelove,Christopher,Labour Party Candidate,SW4 9QS,Clapham Common,Lambeth Borough Council
-clapham-town,Williams,Jack Robert,Liberal Democrats,SE1 8TU,Bishop's,Lambeth Borough Council
-coldharbour,Anyanwu,Donatus,Labour Party Candidate,SW16 2EJ,Streatham Wells,Lambeth Borough Council
-coldharbour,Awogta,Boniface Chakpiu,Independent,SW9 8SE,Coldharbour,Lambeth Borough Council
-coldharbour,Belgrove,Carl R,Conservative Party Candidate,SE21 8DW,Gipsy Hill,Lambeth Borough Council
-coldharbour,Heywood,Rachel,Labour Party Candidate,SW9 9RB,Ferndale,Lambeth Borough Council
-coldharbour,Lester,Rachel,Liberal Democrat,SE24 0PT,Herne Hill,Lambeth Borough Council
-coldharbour,Morfey,Michael John,Liberal Democrat,SW16 5DS,Streatham South,Lambeth Borough Council
-coldharbour,Nicholls,Julian,The Green Party,SW3 2PQ,Hans Town,Kensington and Chelsea Borough Council
-coldharbour,Parr,Matt,Labour Party Candidate,SW2 1BW,Coldharbour,Lambeth Borough Council
-coldharbour,Smith,Solomon,The Green Party,SW9 8QP,Coldharbour,Lambeth Borough Council
-coldharbour,Stewart-williams,Yvonne,Conservative Party Candidate,SW2 1PW,Coldharbour,Lambeth Borough Council
-coldharbour,Waddington,Simon Ian,Liberal Democrat,SE24 0LU,Herne Hill,Lambeth Borough Council
-coldharbour,Ward,Johan,UK Independence Party (UKIP),SW2 5JA,Brixton Hill,Lambeth Borough Council
-coldharbour,Warner,David Clinton,Independent,SW9 8SE,Coldharbour,Lambeth Borough Council
-coldharbour,Watkins,Edward P,Conservative Party Candidate,SW2 5SP,Ferndale,Lambeth Borough Council
-coldharbour,Wood,Thomas William,The Green Party,SW2 1JR,Coldharbour,Lambeth Borough Council
-ferndale,Gillespie,Edward Roger,The Green Party,SW2 1HS,Brixton Hill,Lambeth Borough Council
-ferndale,Hatton,Thomas Brian,Conservative Party Candidate,SW4 7PS,Ferndale,Lambeth Borough Council
-ferndale,Ivens,James Richard,Trade Unionists and Socialists Coaltion,SW9 9PT,Ferndale,Lambeth Borough Council
-ferndale,Jones,Elizabeth,UK Independence Party (UKIP),SW4 7HE,Ferndale,Lambeth Borough Council
-ferndale,Lambert,Daniel Peter,The Socialist Party (GB),BR7 5DS,Chislehurst,Bromley Council
-ferndale,Mawdsley,Paul Michael,Conservative Party Candidate,SW8 1BH,Stockwell,Lambeth Borough Council
-ferndale,Mcglone,Paul,Labour Party Candidate,SW2 2DG,Tulse Hill,Lambeth Borough Council
-ferndale,Medway,John Robert,Liberal Democrats,SE11 4PF,Prince's,Lambeth Borough Council
-ferndale,Prentice,Sally,Labour Party Candidate,SE11 5SE,Oval,Lambeth Borough Council
-ferndale,Sabharwal,Neil,Labour Party Candidate,SW2 4XF,Streatham Hill,Lambeth Borough Council
-ferndale,Timmins,Michael James,Conservative Party Candidate,SW12 0AP,Thornton,Lambeth Borough Council
-ferndale,Tuffrey,Michael,Liberal Democrats,SW4 9HD,Clapham Common,Lambeth Borough Council
-ferndale,Vaus,Jane,Liberal Democrats,SW9 9LU,Larkhall,Lambeth Borough Council
-ferndale,Woolley,Philip Thomas,The Green Party,SW2 5QN,Ferndale,Lambeth Borough Council
-gipsy-hill,Bennett,Matthew,Labour Party Candidate,SE21 8BP,Gipsy Hill,Lambeth Borough Council
-gipsy-hill,Brathwaite,Jennifer,Labour Party Candidate,SW16 1NA,St Leonard's,Lambeth Borough Council
-gipsy-hill,Crichton stuart,Marietta Frances,Liberal Democrat,SW4 0DN,Clapham Town,Lambeth Borough Council
-gipsy-hill,Francis,Niranjan,Labour Party Candidate,SE27 9QY,Gipsy Hill,Lambeth Borough Council
-gipsy-hill,Gutin,Said,Conservative Party Candidate,SE27 9QW,Gipsy Hill,Lambeth Borough Council
-gipsy-hill,Hare,David James,Liberal Democrat,SE24 9DB,Thurlow Park,Lambeth Borough Council
-gipsy-hill,Kayikkiran,Ali,Conservative Party Candidate,SE27 9PY,Gipsy Hill,Lambeth Borough Council
-gipsy-hill,Martin,Thomas James,Conservative Party Candidate,SE27 0HS,Knight's Hill,Lambeth Borough Council
-gipsy-hill,Mckeown,Benedict Charles,The Green Party,SE21 8AY,Gipsy Hill,Lambeth Borough Council
-gipsy-hill,Otoyo,Eddie,UK Independence Party (UKIP),SW2 5DA,Brixton Hill,Lambeth Borough Council
-gipsy-hill,Potter,Catherine,The Green Party,SW2 4JE,Brixton Hill,Lambeth Borough Council
-gipsy-hill,Van breugel,Marcus,Liberal Democrat,SE19 1NY,Gipsy Hill,Lambeth Borough Council
-gipsy-hill,Wynter,Paul,The Green Party,SE5 8EG,Herne Hill,Lambeth Borough Council
-herne-hill,Agdomar,Michelle,Labour Party Candidate,SE24 0PA,Herne Hill,Lambeth Borough Council
-herne-hill,Baker,Claire Mary,Conservative Party Candidate,SW2 3UJ,Thurlow Park,Lambeth Borough Council
-herne-hill,Dickson,James,Labour Party Candidate,SE24 9DH,Thurlow Park,Lambeth Borough Council
-herne-hill,Edwards,Nicholas,The Green Party,SE5 8EG,Herne Hill,Lambeth Borough Council
-herne-hill,Hildyard,Luke,The Green Party,SW2 4XQ,Streatham Hill,Lambeth Borough Council
-herne-hill,Holborn,Jack,Labour Party Candidate,SE24 0BL,Herne Hill,Lambeth Borough Council
-herne-hill,Hooberman,Simon,Conservative Party Candidate,SW16 2NF,Streatham Wells,Lambeth Borough Council
-herne-hill,Keen,Jennifer Elizabeth,Liberal Democrat,SE24 0NT,Herne Hill,Lambeth Borough Council
-herne-hill,Nicholson,Heidi,Conservative Party Candidate,SW16 3RB,Knight's Hill,Lambeth Borough Council
-herne-hill,Price,JONATHAN,Liberal Democrat,SE24 0EB,Herne Hill,Lambeth Borough Council
-herne-hill,Price,LAWRENCE,Liberal Democrat,SE24 0EB,Herne Hill,Lambeth Borough Council
-herne-hill,Scott,Amy Louise,Trade Unionists and Socialists Coaltion,SE5 9DN,Herne Hill,Lambeth Borough Council
-herne-hill,Stanbury,Steven George,UK Independence Party (UKIP),SE21 8NP,Village,Southwark Borough Council
-herne-hill,Womack,Helen Amelia,The Green Party,SE24 0PA,Herne Hill,Lambeth Borough Council
-knights-hill,Belgrove,Julia,Conservative Party Candidate,SE21 8DW,Gipsy Hill,Lambeth Borough Council
-knights-hill,Calton,Elizabeth Anne,Liberal Democrats,SW16 2DR,Streatham Wells,Lambeth Borough Council
-knights-hill,Collins,Timothy Michael,Conservative Party Candidate,SE21 8BP,Gipsy Hill,Lambeth Borough Council
-knights-hill,De armas estevez,Hugo,The Green Party,SE1 7TY,Prince's,Lambeth Borough Council
-knights-hill,Etkind,Lianna Rachel,The Green Party,SW2 5BE,Brixton Hill,Lambeth Borough Council
-knights-hill,Giannissis,Nicholas,The Green Party,SE27 0NU,Knight's Hill,Lambeth Borough Council
-knights-hill,Hardware,Robert,Liberal Democrats,SE27 0BT,Knight's Hill,Lambeth Borough Council
-knights-hill,Heather,Julian Paul,Liberal Democrats,SW16 3HJ,Streatham Wells,Lambeth Borough Council
-knights-hill,Kimm,Anthony Michael,Conservative Party Candidate,SE21 8NQ,Thurlow Park,Lambeth Borough Council
-knights-hill,Kowalska,Helena Maria,UK Independence Party (UKIP),SE21 8JD,Thurlow Park,Lambeth Borough Council
-knights-hill,Meldrum,Jackie,Labour Party Candidate,SW2 2BE,Tulse Hill,Lambeth Borough Council
-knights-hill,Pickard,Jane,Labour Party Candidate,SE27 0RN,Knight's Hill,Lambeth Borough Council
-knights-hill,Winifred,Sonia,Labour Party Candidate,SW2 5JA,Brixton Hill,Lambeth Borough Council
-larkhall,Betteridge,Alexander James,Trade Unionists and Socialists Coaltion,SW9 9PT,Ferndale,Lambeth Borough Council
-larkhall,Buick,Adam John Lewis,The Socialist Party (GB),TW10 7HR,"Ham, Petersham and Richmond Riverside",Richmond upon Thames Borough Council
-larkhall,Church,Claire Alison,Liberal Democrats,SW8 1JZ,Oval,Lambeth Borough Council
-larkhall,Dalton,Jeffrey,The Green Party,SW9 9NY,Larkhall,Lambeth Borough Council
-larkhall,De cordova,Marsha,Labour Party Candidate,SW4 6JU,Larkhall,Lambeth Borough Council
-larkhall,Jupp,Matthew,Conservative Party Candidate,SW4 6RS,Stockwell,Lambeth Borough Council
-larkhall,Lowe,Victoria Elizabeth,Conservative Party Candidate,SW4 6JZ,Clapham Town,Lambeth Borough Council
-larkhall,Macdonald,David John,Liberal Democrats,SE5 0SE,Oval,Lambeth Borough Council
-larkhall,Marriott,Sean David,UK Independence Party (UKIP),SW9 9RJ,Larkhall,Lambeth Borough Council
-larkhall,Mills,Alistair,Liberal Democrats,SW9 9JD,Larkhall,Lambeth Borough Council
-larkhall,Osborne,Ciaran,The Green Party,SW9 9JW,Larkhall,Lambeth Borough Council
-larkhall,Perry,Jennifer Elizabeth,The Green Party,SW9 9BT,Larkhall,Lambeth Borough Council
-larkhall,Trelawny,Alison,Conservative Party Candidate,SW4 6HU,Larkhall,Lambeth Borough Council
-larkhall,Valcarcel,Christiana,Labour Party Candidate,SW8 1ET,Oval,Lambeth Borough Council
-larkhall,Wilson,Andrew M,Labour Party Candidate,SE24 9QT,Herne Hill,Lambeth Borough Council
-oval,Brown,Ishbel,Liberal Democrats,SW8 1EA,Oval,Lambeth Borough Council
-oval,Edbrooke,Angela J,Labour Party Candidate,SW12 0JP,Thornton,Lambeth Borough Council
-oval,Geffert,Anna Victoria,The Green Party,SW8 1EA,Oval,Lambeth Borough Council
-oval,Holland,Claire K,Labour Party Candidate,SW8 1NZ,Oval,Lambeth Borough Council
-oval,Hopkins,Jack W,Labour Party Candidate,SW8 1PJ,Oval,Lambeth Borough Council
-oval,Humphreys,Stephen Robin,Conservative Party Candidate,SW9 0LP,Oval,Lambeth Borough Council
-oval,Monger,Helen,Liberal Democrats,SE11 5AX,Oval,Lambeth Borough Council
-oval,Nally,Steven Paul,Trade Unionists and Socialists Coaltion,SW8 1UA,Oval,Lambeth Borough Council
-oval,O'sullivan,Bernard Anthony,The Green Party,SW8 1TF,Oval,Lambeth Borough Council
-oval,Otoyo,Lucia,UK Independence Party (UKIP),SW2 5DA,Brixton Hill,Lambeth Borough Council
-oval,Senior,Glencora Louise,Conservative Party Candidate,SW9 0PU,Vassall,Lambeth Borough Council
-oval,Sharma,Pawan,Conservative Party Candidate,SW8 2LZ,Oval,Lambeth Borough Council
-oval,Turner,George,Liberal Democrats,SE11 6AG,Prince's,Lambeth Borough Council
-oval,Young,Sandra Helen,The Green Party,SW8 1LT,Oval,Lambeth Borough Council
-princes,Amos,David,Labour Party Candidate,SE11 4NP,Prince's,Lambeth Borough Council
-princes,Baines,MALCOLM IAN,Liberal Democrats,SE11 4NL,Prince's,Lambeth Borough Council
-princes,Baines,VIVIENNE JANE,Liberal Democrats,SE11 4NL,Prince's,Lambeth Borough Council
-princes,Barker,Claire Louise,Conservative Party Candidate,SE11 6AU,Prince's,Lambeth Borough Council
-princes,Bellis,James Howard,Conservative Party Candidate,SE11 4AA,Prince's,Lambeth Borough Council
-princes,Christodoulou,Daisy Rose,Liberal Democrats,SW9 0LH,Oval,Lambeth Borough Council
-princes,Dodds,John,UK Independence Party (UKIP),SE1 8LN,Bishop's,Lambeth Borough Council
-princes,Halsall,Eleanor Anne,The Green Party,SE11 5PQ,Prince's,Lambeth Borough Council
-princes,Howard,John,Independent,SW8 2AX,Oval,Lambeth Borough Council
-princes,Hutchinson,Laurence,Trade Unionists and Socialists Coaltion,SE11 6DY,Prince's,Lambeth Borough Council
-princes,Lindsay,Fern Christine,The Green Party,SE11 5LJ,Prince's,Lambeth Borough Council
-princes,Marsh,Chris,Labour Party Candidate,SE11 5DQ,Prince's,Lambeth Borough Council
-princes,Poole-wilson,Michael Charles,Conservative Party Candidate,SE11 4LD,Oval,Lambeth Borough Council
-princes,Simpson,Joanne,Labour Party Candidate,SW8 1PJ,Oval,Lambeth Borough Council
-princes,Taylor,Joseph David,The Green Party,SE11 4EZ,Prince's,Lambeth Borough Council
-st-leonards,Ainslie,Scott,The Green Party,SW16 1JG,St Leonard's,Lambeth Borough Council
-st-leonards,Bartley,Jonathan,The Green Party,SW16 1QY,St Leonard's,Lambeth Borough Council
-st-leonards,Burke,Michael,Labour Party Candidate,SW2 1SW,Tulse Hill,Lambeth Borough Council
-st-leonards,Giess,Roger Joseph,Liberal Democrats,SW2 3SL,Streatham Hill,Lambeth Borough Council
-st-leonards,Hill,Robert,Labour Party Candidate,SW16 6LR,St Leonard's,Lambeth Borough Council
-st-leonards,Jaffer,Saleha-Begum,Labour Party Candidate,SW2 3ER,Brixton Hill,Lambeth Borough Council
-st-leonards,Jarrett,Charles Henry,Conservative Party Candidate,SW16 6AP,St Leonard's,Lambeth Borough Council
-st-leonards,Laurence,Rachel,The Green Party,SE27 0EZ,Knight's Hill,Lambeth Borough Council
-st-leonards,Newall,FELICITY,Conservative Party Candidate,SW16 1AE,St Leonard's,Lambeth Borough Council
-st-leonards,Newall,WENDY,Conservative Party Candidate,SW16 1AE,St Leonard's,Lambeth Borough Council
-st-leonards,Palmer,Brian James,Liberal Democrats,SW16 1UT,St Leonard's,Lambeth Borough Council
-st-leonards,Stanier,Phillip Harry,Liberal Democrats,SW16 1JB,St Leonard's,Lambeth Borough Council
-st-leonards,Trasenster,Mark William De,UK Independence Party (UKIP),SW16 1QF,St Leonard's,Lambeth Borough Council
-stockwell,Barr,Sarah,Conservative Party Candidate,SW9 0AP,Vassall,Lambeth Borough Council
-stockwell,Barrett,Craig,Conservative Party Candidate,SW8 2BU,Stockwell,Lambeth Borough Council
-stockwell,Bigham,Alex,Labour Party Candidate,SW8 1BT,Stockwell,Lambeth Borough Council
-stockwell,Bottrall,Anthony Francis,Liberal Democrats,SW9 9TE,Ferndale,Lambeth Borough Council
-stockwell,Correia - sefzick,Fernanda De,Liberal Democrats,SW2 4EP,Brixton Hill,Lambeth Borough Council
-stockwell,Low,Samuel Edwin,The Green Party,SW8 1DB,Stockwell,Lambeth Borough Council
-stockwell,Mcconnell,Matthew David,Liberal Democrats,SW8 1XD,Stockwell,Lambeth Borough Council
-stockwell,Mcmillan,Robert Andrew,Conservative Party Candidate,SW8 4RP,Stockwell,Lambeth Borough Council
-stockwell,Rosa,Guilherme,Labour Party Candidate,SW16 2UL,Streatham Wells,Lambeth Borough Council
-stockwell,Santos,Joana Pedros,Trade Unionist and Socialists Against Cuts,SW9 6XA,Vassall,Lambeth Borough Council
-stockwell,Tschepp,Maritza Cecelia,The Green Party,SW8 2PB,Stockwell,Lambeth Borough Council
-stockwell,Ville,David James,The Green Party,SW8 4TN,Larkhall,Lambeth Borough Council
-stockwell,Walker,Imogen,Labour Party Candidate,SW4 8BS,Clapham Common,Lambeth Borough Council
-streatham-hill,Atkins,Elizabeth Ann,Labour Party Candidate,SW2 3LB,Streatham Hill,Lambeth Borough Council
-streatham-hill,Bailey,Elaine Tamara,Conservative Party Candidate,SW16 1NG,St Leonard's,Lambeth Borough Council
-streatham-hill,Bryant,David,The Green Party,SW2 4SZ,Streatham Hill,Lambeth Borough Council
-streatham-hill,Caspell,James John,The Green Party,SW2 3TN,Streatham Hill,Lambeth Borough Council
-streatham-hill,Chowdhury,Rezina Akhtar,Labour Party Candidate,SW2 3SS,Streatham Hill,Lambeth Borough Council
-streatham-hill,Clyne,Jeremy Searle,Liberal Democrats,SW16 1LD,St Leonard's,Lambeth Borough Council
-streatham-hill,Harris,Kriss,Independent,SW16 5JZ,Streatham South,Lambeth Borough Council
-streatham-hill,Henwood,Phillip William,Conservative Party Candidate,SW16 1AZ,St Leonard's,Lambeth Borough Council
-streatham-hill,Lumsden,Ashley Guthrie,Liberal Democrats,SW2 3SL,Streatham Hill,Lambeth Borough Council
-streatham-hill,Maurice-jones,Leon,The Green Party,SW2 3TU,Streatham Hill,Lambeth Borough Council
-streatham-hill,Ogden,Carita Meryt,Liberal Democrats,SW16 1JB,St Leonard's,Lambeth Borough Council
-streatham-hill,Simpson,Iain Edward,Labour Party Candidate,SW2 1LD,Coldharbour,Lambeth Borough Council
-streatham-hill,Wallace,Mark Edwin,Conservative Party Candidate,SW2 3BH,Streatham Hill,Lambeth Borough Council
-streatham-hill,Younghusband,Peter Richard,UK Independence Party (UKIP),SW2 4HT,Streatham Hill,Lambeth Borough Council
-streatham-south,Adilypour,Danial,Labour Party Candidate,SW16 6AD,St Leonard's,Lambeth Borough Council
-streatham-south,Ahmed,Nazir,Liberal Democrats,SW16 3DJ,Streatham South,Lambeth Borough Council
-streatham-south,Ali,Ahmad,Liberal Democrats,SW16 5XQ,Streatham South,Lambeth Borough Council
-streatham-south,Guinness,Jonathan Henry,Conservative Party Candidate,SW4 9JS,Clapham Common,Lambeth Borough Council
-streatham-south,Hinkson,Emma,The Green Party,SW16 3PB,Streatham South,Lambeth Borough Council
-streatham-south,Kazantzis,John,Labour Party Candidate,SW16 1JF,St Leonard's,Lambeth Borough Council
-streatham-south,Melia,Nigel Marvin,The Green Party,SW2 3TU,Streatham Hill,Lambeth Borough Council
-streatham-south,Morfey,Karen Angela,Liberal Democrats,SW16 5DS,Streatham South,Lambeth Borough Council
-streatham-south,Smith,Helen Patricia,Conservative Party Candidate,SW16 5LJ,Streatham South,Lambeth Borough Council
-streatham-south,Spencer,Benjamin John,The Green Party,SW16 6LP,St Leonard's,Lambeth Borough Council
-streatham-south,Wharton,Jack Alexander,Conservative Party Candidate,SW16 5LW,Streatham South,Lambeth Borough Council
-streatham-south,Wilcox,Clair,Labour Party Candidate,SW16 2AN,Streatham Wells,Lambeth Borough Council
-streatham-wells,Best,Judith,Liberal Democrats,SW16 2DE,Streatham Wells,Lambeth Borough Council
-streatham-wells,Braverman,Rachel Jane,The Green Party,SW16 2RD,Streatham Wells,Lambeth Borough Council
-streatham-wells,Clark,Malcolm,Labour Party Candidate,SW16 2LA,Streatham Wells,Lambeth Borough Council
-streatham-wells,Davies,ALEXANDER,Liberal Democrats,SW16 2ET,Streatham Wells,Lambeth Borough Council
-streatham-wells,Davies,STANLEY,Conservative Party Candidate,SW16 2NF,Streatham Wells,Lambeth Borough Council
-streatham-wells,Devas,Magda,The Green Party,SW16 2RD,Streatham Wells,Lambeth Borough Council
-streatham-wells,Freeman,Sheila,The Green Party,SW16 2UN,Streatham Wells,Lambeth Borough Council
-streatham-wells,Harman,Simon Longton,UK Independence Party (UKIP),SW16 1JJ,St Leonard's,Lambeth Borough Council
-streatham-wells,Liell,Lisabeth Jane,Conservative Party Candidate,SW16 2AF,Streatham Wells,Lambeth Borough Council
-streatham-wells,Marchant,Daphne,Liberal Democrats,SW16 3BX,Streatham South,Lambeth Borough Council
-streatham-wells,Seedat,Mohammed,Labour Party Candidate,SW16 2DS,Streatham Wells,Lambeth Borough Council
-streatham-wells,Treppass,Amelie,Labour Party Candidate,SW16 2AW,Streatham Wells,Lambeth Borough Council
-streatham-wells,Tunstall,Teresa Mary,Conservative Party Candidate,SW16 3HS,Streatham Wells,Lambeth Borough Council
-thornton,Audsley,Adrian John,The Green Party,SW12 0JD,Thornton,Lambeth Borough Council
-thornton,Brack,Duncan Miles,Liberal Democrats,SW12 0EN,Thornton,Lambeth Borough Council
-thornton,Davie,Edward Thomas,Labour Party Candidate,SW16 2JS,Knight's Hill,Lambeth Borough Council
-thornton,De maynard,Vernon Augustus,Conservative Party Candidate,SW4 8DG,Thornton,Lambeth Borough Council
-thornton,Hemsley,Simon James,Conservative Party Candidate,SW12 0NX,Thornton,Lambeth Borough Council
-thornton,Kershaw,Hannah Louise,The Green Party,SW9 9LJ,Larkhall,Lambeth Borough Council
-thornton,Lankester,Charles,The Green Party,SW12 0EN,Thornton,Lambeth Borough Council
-thornton,Machan,Bruce Anthony,UK Independence Party (UKIP),SW12 0EL,Thornton,Lambeth Borough Council
-thornton,Macnair,Rebecca Susan,Liberal Democrats,SW12 0NX,Thornton,Lambeth Borough Council
-thornton,Morris,Diana Mary,Labour Party Candidate,SW12 0DS,Thornton,Lambeth Borough Council
-thornton,Peck,Lib,Labour Party Candidate,SW12 0HZ,Thornton,Lambeth Borough Council
-thornton,Pindar,John,Liberal Democrats,SW12 0JP,Thornton,Lambeth Borough Council
-thornton,Young,George Trevor,Conservative Party Candidate,SW4 9HW,Clapham Common,Lambeth Borough Council
-thurlow-park,Baker,JEREMY JOHN,Liberal Democrat,SE21 8HT,Thurlow Park,Lambeth Borough Council
-thurlow-park,Baker,MALGORZATA,Liberal Democrat,SE21 8HT,Thurlow Park,Lambeth Borough Council
-thurlow-park,Birley,Anna,Labour Party Candidate,SE21 8HY,Thurlow Park,Lambeth Borough Council
-thurlow-park,Cowell,Frederick,Labour Party Candidate,SE24 9AA,Village,Southwark Borough Council
-thurlow-park,Deckers dowber,Max,Labour Party Candidate,SE21 8LY,Thurlow Park,Lambeth Borough Council
-thurlow-park,Farrow,Matthew Paul,The Green Party,SE21 8LQ,Thurlow Park,Lambeth Borough Council
-thurlow-park,Kimm,Irene Ann,Conservative Party Candidate,SE21 8NQ,Thurlow Park,Lambeth Borough Council
-thurlow-park,Lambert,Robin Andrew,UK Independence Party (UKIP),SE24 9BB,Thurlow Park,Lambeth Borough Council
-thurlow-park,Price-tomes,Patricia June,The Green Party,SW2 2QP,Thurlow Park,Lambeth Borough Council
-thurlow-park,Pycock,Graham Harold,Conservative Party Candidate,SE27 0LB,Knight's Hill,Lambeth Borough Council
-thurlow-park,Stone-fewings,Jonathan,The Green Party,SE24 9AG,Thurlow Park,Lambeth Borough Council
-thurlow-park,Thurburn,Andrew James,Liberal Democrat,SE21 8EG,Thurlow Park,Lambeth Borough Council
-thurlow-park,Tryl,Luke Michael,Conservative Party Candidate,SE24 9DG,Village,Southwark Borough Council
-tulse-hill,Aminu,Adedamola,Labour Party Candidate,SW2 5HH,Brixton Hill,Lambeth Borough Council
-tulse-hill,Atkins,Mary,Labour Party Candidate,SW2 2TX,Tulse Hill,Lambeth Borough Council
-tulse-hill,Atwell,Elkin Gordon,The Green Party,SW9 7SQ,Coldharbour,Lambeth Borough Council
-tulse-hill,Cameron,Marcia,Labour Party Candidate,SW2 2SS,Tulse Hill,Lambeth Borough Council
-tulse-hill,Cartwright,Lavinia Arden,Conservative Party Candidate,SW4 8QF,Clapham Common,Lambeth Borough Council
-tulse-hill,Chuter,Jonathan Justin,The Green Party,SE24 0PA,Herne Hill,Lambeth Borough Council
-tulse-hill,Coldrick,Matthew Francis,Liberal Democrats,SW2 2JB,Tulse Hill,Lambeth Borough Council
-tulse-hill,Curtis,Terence David,Liberal Democrats,SW2 3PF,Tulse Hill,Lambeth Borough Council
-tulse-hill,Foster,John Stephen,Liberal Democrats,SW2 4QH,Streatham Hill,Lambeth Borough Council
-tulse-hill,O'mant,Kieran,Trade Unionists and Socialists Coaltion,SE27 0PQ,Knight's Hill,Lambeth Borough Council
-tulse-hill,Read,Martin Lester,Conservative Party Candidate,SW12 0DR,Thornton,Lambeth Borough Council
-tulse-hill,Richards,Marcel Anthony,Trade Unionists and Socialists Coaltion,SE5 0RS,Vassall,Lambeth Borough Council
-tulse-hill,White,John Bryan,Conservative Party Candidate,SW4 8QF,Clapham Common,Lambeth Borough Council
-tulse-hill,Wynter,William Joseph,The Green Party,SE5 8EG,Herne Hill,Lambeth Borough Council
-vassall,Abbott,Paul Thomas,Conservative Party Candidate,SW9 0DX,Oval,Lambeth Borough Council
-vassall,Avebury,Lindsay Jean,Liberal Democrats,SE5 9LH,Vassall,Lambeth Borough Council
-vassall,Barr,Stuart David,Conservative Party Candidate,SW9 0AP,Vassall,Lambeth Borough Council
-vassall,Chapman,Mark Raymond,The Pirate Party,SW9 6HU,Vassall,Lambeth Borough Council
-vassall,Cole,Celia Esme Louise,The Green Party,SW9 6HU,Vassall,Lambeth Borough Council
-vassall,Dyer,Jacqui,Labour Party Candidate,SW9 7BH,Vassall,Lambeth Borough Council
-vassall,Everett,Owen,The Green Party,SW9 7BJ,Vassall,Lambeth Borough Council
-vassall,Gadsby,Paul,Labour Party Candidate,SW9 0DX,Oval,Lambeth Borough Council
-vassall,Gallop,Anne-Marie,Labour Party Candidate,SW9 6JT,Vassall,Lambeth Borough Council
-vassall,Gething,Joshua Jonathan,Conservative Party Candidate,SW8 2JA,Oval,Lambeth Borough Council
-vassall,Montague,Dalton Eric,Trade Unionist and Socialist Coalition,SW9 7HS,Coldharbour,Lambeth Borough Council
-vassall,Thomas,Colette Dawn,Liberal Democrats,SW9 0RR,Vassall,Lambeth Borough Council
-vassall,Walton,John Noah,The Green Party,SW9 7BJ,Vassall,Lambeth Borough Council
-vassall,Wyard,Dominic Karma,Liberal Democrats,SW8 2RR,Larkhall,Lambeth Borough Council
+ward,surname,firstnames,party,postcode,lives_in_ward,lives_in_council,Same WardBishop's,Braithwaite,Diana Elma,Liberal Democrats,SW8 1QU,Oval,Lambeth Borough Council,FALSEBishop's,Brightbart,Samuel Thomas,The Green Party,SE21 8EZ,Thurlow Park,Lambeth Borough Council,FALSEBishop's,Craig,Kevin,Labour Party,SW4 6NP,Larkhall,Lambeth Borough Council,FALSEBishop's,Croft,Clive Murray,The Green Party,SE1 7RB,Bishop's,Lambeth Borough Council,TRUEBishop's,Frost,David Alan,Conservative Party,SE11 4AA,Prince's,Lambeth Borough Council,FALSEBishop's,Gorissen,Bart,The Green Party,SW4 6DZ,Clapham Town,Lambeth Borough Council,FALSEBishop's,Hanney,Matthew Thomas,Liberal Democrats,SW9 0LH,Oval,Lambeth Borough Council,FALSEBishop's,Harrison,Edward Jon,Conservative Party,SE11 4EH,Prince's,Lambeth Borough Council,FALSEBishop's,Hayes,Andrew Robert,UK Independence Party (UKIP),SE11 6BY,Prince's,Lambeth Borough Council,FALSEBishop's,Kind,Benjamin,Labour Party,SW4 6LX,Larkhall,Lambeth Borough Council,FALSEBishop's,Morris,Elsbeth Angela,Trade Unionists and Socialists Coalition,SW9 9PT,Ferndale,Lambeth Borough Council,FALSEBishop's,Moseley,Jennifer,Labour Party,SE1 9NS,Bishop's,Lambeth Borough Council,TRUEBishop's,Rotherham,Lee Stuart,Conservative Party,SE1 7BW,Bishop's,Lambeth Borough Council,TRUEBishop's,Truesdale,Peter Jonathan,Liberal Democrats,SE11 4NP,Prince's,Lambeth Borough Council,FALSEBrixton Hill,Bainbridge,Lisa,Trade Unionists and Socialists Coalition,SW9 6BS,Oval,Lambeth Borough Council,FALSEBrixton Hill,Baker,Roger Charles,The Green Party,SW2 1QZ,Brixton Hill,Lambeth Borough Council,TRUEBrixton Hill,Calder,James Matthew,Conservative Party,SW9 6UW,Vassall,Lambeth Borough Council,FALSEBrixton Hill,Child,Andrew James,The Green Party,SW2 4DS,Brixton Hill,Lambeth Borough Council,TRUEBrixton Hill,Garden,Adrian,Labour Party,SW2 5HD,Brixton Hill,Lambeth Borough Council,TRUEBrixton Hill,Gregory,Paul A,UK Independence Party (UKIP),SW12 0ED,Thornton,Lambeth Borough Council,FALSEBrixton Hill,Keating,Christopher Jospeh,Liberal Democrats,SW16 2DR,Streatham Wells,Lambeth Borough Council,FALSEBrixton Hill,Maffei,Elizabeth Anne,Liberal Democrats,SW4 7NN,Ferndale,Lambeth Borough Council,FALSEBrixton Hill,Mehri,Betiel,The Green Party,SW9 8NW,Coldharbour,Lambeth Borough Council,FALSEBrixton Hill,Nosegbe,Florence,Labour Party,SW9 8TW,Coldharbour,Lambeth Borough Council,FALSEBrixton Hill,Pritchard,Adam James,Liberal Democrats,SW2 5XL,Brixton Hill,Lambeth Borough Council,TRUEBrixton Hill,Richardson,Alex,Trade Unionists and Socialists Coalition,SE27 0PQ,Knight's Hill,Lambeth Borough Council,FALSEBrixton Hill,Tankard,Charles Stephen,Conservative Party,SW2 4DL,Brixton Hill,Lambeth Borough Council,TRUEBrixton Hill,Tiedemann,Martin,Labour Party,SW2 5BA,Brixton Hill,Lambeth Borough Council,TRUEBrixton Hill,Walters,Jessica,Trade Unionists and Socialists Coalition,SE27 0PQ,Knight's Hill,Lambeth Borough Council,FALSEBrixton Hill,Woolley,Michael John,Conservative Party,SW4 8AE,Clapham Common,Lambeth Borough Council,FALSEClapham Common,Briggs,Timothy Peter,Conservative Party,SW4 9RJ,Clapham Common,Lambeth Borough Council,TRUEClapham Common,Bryant,Matthew,Liberal Democrats,SW2 4NR,Streatham Hill,Lambeth Borough Council,FALSEClapham Common,Cutler,Hannah,The Green Party,SW4 0EE,Clapham Town,Lambeth Borough Council,FALSEClapham Common,Drage,Simon David,Liberal Democrats,SW16 2EH,Streatham Wells,Lambeth Borough Council,FALSEClapham Common,Gentry,Bernard Arthur,Conservative Party,SW4 0AT,Clapham Town,Lambeth Borough Council,FALSEClapham Common,Goodwin,Timothy,Labour Party,SW4 6DN,Clapham Town,Lambeth Borough Council,FALSEClapham Common,Hartwell,Nichola Dame,Labour Party,SE11 4JP,Prince's,Lambeth Borough Council,FALSEClapham Common,Hayat-khan,Ruhi,Liberal Democrats,SW16 2TS,Streatham Wells,Lambeth Borough Council,FALSEClapham Common,Kelly,Peter,The Green Party,SW4 9ET,Clapham Common,Lambeth Borough Council,TRUEClapham Common,Nathanson,Louise Roberta,Conservative Party,SW4 9JX,Clapham Common,Lambeth Borough Council,TRUEClapham Common,Pascoe,Jack,Labour Party,SW2 4HD,Streatham Hill,Lambeth Borough Council,FALSEClapham Common,Selander,Kerstin Elaine,The Green Party,SW4 0JW,Clapham Town,Lambeth Borough Council,FALSEClapham Common,Waters,Anna Maria,UK Independence Party (UKIP),SW16 1RE,St Leonard's,Lambeth Borough Council,FALSEClapham Town,Bond,Oliver Rupert,The Socialist Party (GB),KT2 6PX,Norbiton,Kingston upon Thames Borough Council,FALSEClapham Town,Bray,Linda,Labour Party,SW4 9PB,Clapham Common,Lambeth Borough Council,FALSEClapham Town,Ginnett,Hannah Elizabeth,Conservative Party,SW2 1JL,Coldharbour,Lambeth Borough Council,FALSEClapham Town,Grender,Rosalind Mary,Liberal Democrats,SW4 0ES,Clapham Town,Lambeth Borough Council,TRUEClapham Town,Hall,Julian,The Green Party,SW4 0EE,Clapham Town,Lambeth Borough Council,TRUEClapham Town,Haselden,Nigel,Labour Party,SW4 0RH,Clapham Town,Lambeth Borough Council,TRUEClapham Town,Keenan,Gerard John,The Green Party,SW4 0EE,Clapham Town,Lambeth Borough Council,TRUEClapham Town,Lowe,Sebastian Michael,Conservative Party,SW4 6JZ,Clapham Town,Lambeth Borough Council,TRUEClapham Town,Murdoch,Cameron Iain,UK Independence Party (UKIP),SW2 4NE,Thornton,Lambeth Borough Council,FALSEClapham Town,Penning,Colin Douglas,Liberal Democrats,SW16 1EZ,Streatham Wells,Lambeth Borough Council,FALSEClapham Town,Prideaux,Marion Claire,The Green Party,SW4 0RJ,Clapham Town,Lambeth Borough Council,TRUEClapham Town,Wallace,Gareth Robert,Conservative Party,SW8 2DW,Stockwell,Lambeth Borough Council,FALSEClapham Town,Wellbelove,Christopher,Labour Party,SW4 9QS,Clapham Common,Lambeth Borough Council,FALSEClapham Town,Williams,Jack Robert,Liberal Democrats,SE1 8TU,Bishop's,Lambeth Borough Council,FALSEColdharbour,Anyanwu,Donatus,Labour Party,SW16 2EJ,Streatham Wells,Lambeth Borough Council,FALSEColdharbour,Awogta,Boniface Chakpiu,Independent,SW9 8SE,Coldharbour,Lambeth Borough Council,TRUEColdharbour,Belgrove,Carl R,Conservative Party,SE21 8DW,Gipsy Hill,Lambeth Borough Council,FALSEColdharbour,Heywood,Rachel,Labour Party,SW9 9RB,Ferndale,Lambeth Borough Council,FALSEColdharbour,Lester,Rachel,Liberal Democrats,SE24 0PT,Herne Hill,Lambeth Borough Council,FALSEColdharbour,Morfey,Michael John,Liberal Democrats,SW16 5DS,Streatham South,Lambeth Borough Council,FALSEColdharbour,Nicholls,Julian,The Green Party,SW3 2PQ,Hans Town,Kensington and Chelsea Borough Council,FALSEColdharbour,Parr,Matt,Labour Party,SW2 1BW,Coldharbour,Lambeth Borough Council,TRUEColdharbour,Smith,Solomon,The Green Party,SW9 8QP,Coldharbour,Lambeth Borough Council,TRUEColdharbour,Stewart-williams,Yvonne,Conservative Party,SW2 1PW,Coldharbour,Lambeth Borough Council,TRUEColdharbour,Waddington,Simon Ian,Liberal Democrats,SE24 0LU,Herne Hill,Lambeth Borough Council,FALSEColdharbour,Ward,Johan,UK Independence Party (UKIP),SW2 5JA,Brixton Hill,Lambeth Borough Council,FALSEColdharbour,Warner,David Clinton,Independent,SW9 8SE,Coldharbour,Lambeth Borough Council,TRUEColdharbour,Watkins,Edward P,Conservative Party,SW2 5SP,Ferndale,Lambeth Borough Council,FALSEColdharbour,Wood,Thomas William,The Green Party,SW2 1JR,Coldharbour,Lambeth Borough Council,TRUEFerndale,Gillespie,Edward Roger,The Green Party,SW2 1HS,Brixton Hill,Lambeth Borough Council,FALSEFerndale,Hatton,Thomas Brian,Conservative Party,SW4 7PS,Ferndale,Lambeth Borough Council,TRUEFerndale,Ivens,James Richard,Trade Unionists and Socialists Coalition,SW9 9PT,Ferndale,Lambeth Borough Council,TRUEFerndale,Jones,Elizabeth,UK Independence Party (UKIP),SW4 7HE,Ferndale,Lambeth Borough Council,TRUEFerndale,Lambert,Daniel Peter,The Socialist Party (GB),BR7 5DS,Chislehurst,Bromley Council,FALSEFerndale,Mawdsley,Paul Michael,Conservative Party,SW8 1BH,Stockwell,Lambeth Borough Council,FALSEFerndale,Mcglone,Paul,Labour Party,SW2 2DG,Tulse Hill,Lambeth Borough Council,FALSEFerndale,Medway,John Robert,Liberal Democrats,SE11 4PF,Prince's,Lambeth Borough Council,FALSEFerndale,Prentice,Sally,Labour Party,SE11 5SE,Oval,Lambeth Borough Council,FALSEFerndale,Sabharwal,Neil,Labour Party,SW2 4XF,Streatham Hill,Lambeth Borough Council,FALSEFerndale,Timmins,Michael James,Conservative Party,SW12 0AP,Thornton,Lambeth Borough Council,FALSEFerndale,Tuffrey,Michael,Liberal Democrats,SW4 9HD,Clapham Common,Lambeth Borough Council,FALSEFerndale,Vaus,Jane,Liberal Democrats,SW9 9LU,Larkhall,Lambeth Borough Council,FALSEFerndale,Woolley,Philip Thomas,The Green Party,SW2 5QN,Ferndale,Lambeth Borough Council,TRUEGipsy Hill,Bennett,Matthew,Labour Party,SE21 8BP,Gipsy Hill,Lambeth Borough Council,TRUEGipsy Hill,Brathwaite,Jennifer,Labour Party,SW16 1NA,St Leonard's,Lambeth Borough Council,FALSEGipsy Hill,Crichton stuart,Marietta Frances,Liberal Democrats,SW4 0DN,Clapham Town,Lambeth Borough Council,FALSEGipsy Hill,Francis,Niranjan,Labour Party,SE27 9QY,Gipsy Hill,Lambeth Borough Council,TRUEGipsy Hill,Gutin,Said,Conservative Party,SE27 9QW,Gipsy Hill,Lambeth Borough Council,TRUEGipsy Hill,Hare,David James,Liberal Democrats,SE24 9DB,Thurlow Park,Lambeth Borough Council,FALSEGipsy Hill,Kayikkiran,Ali,Conservative Party,SE27 9PY,Gipsy Hill,Lambeth Borough Council,TRUEGipsy Hill,Martin,Thomas James,Conservative Party,SE27 0HS,Knight's Hill,Lambeth Borough Council,FALSEGipsy Hill,Mckeown,Benedict Charles,The Green Party,SE21 8AY,Gipsy Hill,Lambeth Borough Council,TRUEGipsy Hill,Otoyo,Eddie,UK Independence Party (UKIP),SW2 5DA,Brixton Hill,Lambeth Borough Council,FALSEGipsy Hill,Potter,Catherine,The Green Party,SW2 4JE,Brixton Hill,Lambeth Borough Council,FALSEGipsy Hill,Van breugel,Marcus,Liberal Democrats,SE19 1NY,Gipsy Hill,Lambeth Borough Council,TRUEGipsy Hill,Wynter,Paul,The Green Party,SE5 8EG,Herne Hill,Lambeth Borough Council,FALSEHerne Hill,Agdomar,Michelle,Labour Party,SE24 0PA,Herne Hill,Lambeth Borough Council,TRUEHerne Hill,Baker,Claire Mary,Conservative Party,SW2 3UJ,Thurlow Park,Lambeth Borough Council,FALSEHerne Hill,Dickson,James,Labour Party,SE24 9DH,Thurlow Park,Lambeth Borough Council,FALSEHerne Hill,Edwards,Nicholas,The Green Party,SE5 8EG,Herne Hill,Lambeth Borough Council,TRUEHerne Hill,Hildyard,Luke,The Green Party,SW2 4XQ,Streatham Hill,Lambeth Borough Council,FALSEHerne Hill,Holborn,Jack,Labour Party,SE24 0BL,Herne Hill,Lambeth Borough Council,TRUEHerne Hill,Hooberman,Simon,Conservative Party,SW16 2NF,Streatham Wells,Lambeth Borough Council,FALSEHerne Hill,Keen,Jennifer Elizabeth,Liberal Democrats,SE24 0NT,Herne Hill,Lambeth Borough Council,TRUEHerne Hill,Nicholson,Heidi,Conservative Party,SW16 3RB,Knight's Hill,Lambeth Borough Council,FALSEHerne Hill,Price,JONATHAN,Liberal Democrats,SE24 0EB,Herne Hill,Lambeth Borough Council,TRUEHerne Hill,Price,LAWRENCE,Liberal Democrats,SE24 0EB,Herne Hill,Lambeth Borough Council,TRUEHerne Hill,Scott,Amy Louise,Trade Unionists and Socialists Coalition,SE5 9DN,Herne Hill,Lambeth Borough Council,TRUEHerne Hill,Stanbury,Steven George,UK Independence Party (UKIP),SE21 8NP,Village,Southwark Borough Council,FALSEHerne Hill,Womack,Helen Amelia,The Green Party,SE24 0PA,Herne Hill,Lambeth Borough Council,TRUEKnight's Hill,Belgrove,Julia,Conservative Party,SE21 8DW,Gipsy Hill,Lambeth Borough Council,FALSEKnight's Hill,Calton,Elizabeth Anne,Liberal Democrats,SW16 2DR,Streatham Wells,Lambeth Borough Council,FALSEKnight's Hill,Collins,Timothy Michael,Conservative Party,SE21 8BP,Gipsy Hill,Lambeth Borough Council,FALSEKnight's Hill,De armas estevez,Hugo,The Green Party,SE1 7TY,Prince's,Lambeth Borough Council,FALSEKnight's Hill,Etkind,Lianna Rachel,The Green Party,SW2 5BE,Brixton Hill,Lambeth Borough Council,FALSEKnight's Hill,Giannissis,Nicholas,The Green Party,SE27 0NU,Knight's Hill,Lambeth Borough Council,TRUEKnight's Hill,Hardware,Robert,Liberal Democrats,SE27 0BT,Knight's Hill,Lambeth Borough Council,TRUEKnight's Hill,Heather,Julian Paul,Liberal Democrats,SW16 3HJ,Streatham Wells,Lambeth Borough Council,FALSEKnight's Hill,Kimm,Anthony Michael,Conservative Party,SE21 8NQ,Thurlow Park,Lambeth Borough Council,FALSEKnight's Hill,Kowalska,Helena Maria,UK Independence Party (UKIP),SE21 8JD,Thurlow Park,Lambeth Borough Council,FALSEKnight's Hill,Meldrum,Jackie,Labour Party,SW2 2BE,Tulse Hill,Lambeth Borough Council,FALSEKnight's Hill,Pickard,Jane,Labour Party,SE27 0RN,Knight's Hill,Lambeth Borough Council,TRUEKnight's Hill,Winifred,Sonia,Labour Party,SW2 5JA,Brixton Hill,Lambeth Borough Council,FALSELarkhall,Betteridge,Alexander James,Trade Unionists and Socialists Coalition,SW9 9PT,Ferndale,Lambeth Borough Council,FALSELarkhall,Buick,Adam John Lewis,The Socialist Party (GB),TW10 7HR,"Ham, Petersham and Richmond Riverside",Richmond upon Thames Borough Council,FALSELarkhall,Church,Claire Alison,Liberal Democrats,SW8 1JZ,Oval,Lambeth Borough Council,FALSELarkhall,Dalton,Jeffrey,The Green Party,SW9 9NY,Larkhall,Lambeth Borough Council,TRUELarkhall,De cordova,Marsha,Labour Party,SW4 6JU,Larkhall,Lambeth Borough Council,TRUELarkhall,Jupp,Matthew,Conservative Party,SW4 6RS,Stockwell,Lambeth Borough Council,FALSELarkhall,Lowe,Victoria Elizabeth,Conservative Party,SW4 6JZ,Clapham Town,Lambeth Borough Council,FALSELarkhall,Macdonald,David John,Liberal Democrats,SE5 0SE,Oval,Lambeth Borough Council,FALSELarkhall,Marriott,Sean David,UK Independence Party (UKIP),SW9 9RJ,Larkhall,Lambeth Borough Council,TRUELarkhall,Mills,Alistair,Liberal Democrats,SW9 9JD,Larkhall,Lambeth Borough Council,TRUELarkhall,Osborne,Ciaran,The Green Party,SW9 9JW,Larkhall,Lambeth Borough Council,TRUELarkhall,Perry,Jennifer Elizabeth,The Green Party,SW9 9BT,Larkhall,Lambeth Borough Council,TRUELarkhall,Trelawny,Alison,Conservative Party,SW4 6HU,Larkhall,Lambeth Borough Council,TRUELarkhall,Valcarcel,Christiana,Labour Party,SW8 1ET,Oval,Lambeth Borough Council,FALSELarkhall,Wilson,Andrew M,Labour Party,SE24 9QT,Herne Hill,Lambeth Borough Council,FALSEOval,Brown,Ishbel,Liberal Democrats,SW8 1EA,Oval,Lambeth Borough Council,TRUEOval,Edbrooke,Angela J,Labour Party,SW12 0JP,Thornton,Lambeth Borough Council,FALSEOval,Geffert,Anna Victoria,The Green Party,SW8 1EA,Oval,Lambeth Borough Council,TRUEOval,Holland,Claire K,Labour Party,SW8 1NZ,Oval,Lambeth Borough Council,TRUEOval,Hopkins,Jack W,Labour Party,SW8 1PJ,Oval,Lambeth Borough Council,TRUEOval,Humphreys,Stephen Robin,Conservative Party,SW9 0LP,Oval,Lambeth Borough Council,TRUEOval,Monger,Helen,Liberal Democrats,SE11 5AX,Oval,Lambeth Borough Council,TRUEOval,Nally,Steven Paul,Trade Unionists and Socialists Coalition,SW8 1UA,Oval,Lambeth Borough Council,TRUEOval,O'sullivan,Bernard Anthony,The Green Party,SW8 1TF,Oval,Lambeth Borough Council,TRUEOval,Otoyo,Lucia,UK Independence Party (UKIP),SW2 5DA,Brixton Hill,Lambeth Borough Council,FALSEOval,Senior,Glencora Louise,Conservative Party,SW9 0PU,Vassall,Lambeth Borough Council,FALSEOval,Sharma,Pawan,Conservative Party,SW8 2LZ,Oval,Lambeth Borough Council,TRUEOval,Turner,George,Liberal Democrats,SE11 6AG,Prince's,Lambeth Borough Council,FALSEOval,Young,Sandra Helen,The Green Party,SW8 1LT,Oval,Lambeth Borough Council,TRUEPrince's,Amos,David,Labour Party,SE11 4NP,Prince's,Lambeth Borough Council,TRUEPrince's,Baines,MALCOLM IAN,Liberal Democrats,SE11 4NL,Prince's,Lambeth Borough Council,TRUEPrince's,Baines,VIVIENNE JANE,Liberal Democrats,SE11 4NL,Prince's,Lambeth Borough Council,TRUEPrince's,Barker,Claire Louise,Conservative Party,SE11 6AU,Prince's,Lambeth Borough Council,TRUEPrince's,Bellis,James Howard,Conservative Party,SE11 4AA,Prince's,Lambeth Borough Council,TRUEPrince's,Christodoulou,Daisy Rose,Liberal Democrats,SW9 0LH,Oval,Lambeth Borough Council,FALSEPrince's,Dodds,John,UK Independence Party (UKIP),SE1 8LN,Bishop's,Lambeth Borough Council,FALSEPrince's,Halsall,Eleanor Anne,The Green Party,SE11 5PQ,Prince's,Lambeth Borough Council,TRUEPrince's,Howard,John,Independent,SW8 2AX,Oval,Lambeth Borough Council,FALSEPrince's,Hutchinson,Laurence,Trade Unionists and Socialists Coalition,SE11 6DY,Prince's,Lambeth Borough Council,TRUEPrince's,Lindsay,Fern Christine,The Green Party,SE11 5LJ,Prince's,Lambeth Borough Council,TRUEPrince's,Marsh,Chris,Labour Party,SE11 5DQ,Prince's,Lambeth Borough Council,TRUEPrince's,Poole-wilson,Michael Charles,Conservative Party,SE11 4LD,Oval,Lambeth Borough Council,FALSEPrince's,Simpson,Joanne,Labour Party,SW8 1PJ,Oval,Lambeth Borough Council,FALSEPrince's,Taylor,Joseph David,The Green Party,SE11 4EZ,Prince's,Lambeth Borough Council,TRUESt Leonard's,Ainslie,Scott,The Green Party,SW16 1JG,St Leonard's,Lambeth Borough Council,TRUESt Leonard's,Bartley,Jonathan,The Green Party,SW16 1QY,St Leonard's,Lambeth Borough Council,TRUESt Leonard's,Burke,Michael,Labour Party,SW2 1SW,Tulse Hill,Lambeth Borough Council,FALSESt Leonard's,Giess,Roger Joseph,Liberal Democrats,SW2 3SL,Streatham Hill,Lambeth Borough Council,FALSESt Leonard's,Hill,Robert,Labour Party,SW16 6LR,St Leonard's,Lambeth Borough Council,TRUESt Leonard's,Jaffer,Saleha-Begum,Labour Party,SW2 3ER,Brixton Hill,Lambeth Borough Council,FALSESt Leonard's,Jarrett,Charles Henry,Conservative Party,SW16 6AP,St Leonard's,Lambeth Borough Council,TRUESt Leonard's,Laurence,Rachel,The Green Party,SE27 0EZ,Knight's Hill,Lambeth Borough Council,FALSESt Leonard's,Newall,FELICITY,Conservative Party,SW16 1AE,St Leonard's,Lambeth Borough Council,TRUESt Leonard's,Newall,WENDY,Conservative Party,SW16 1AE,St Leonard's,Lambeth Borough Council,TRUESt Leonard's,Palmer,Brian James,Liberal Democrats,SW16 1UT,St Leonard's,Lambeth Borough Council,TRUESt Leonard's,Stanier,Phillip Harry,Liberal Democrats,SW16 1JB,St Leonard's,Lambeth Borough Council,TRUESt Leonard's,Trasenster,Mark William De,UK Independence Party (UKIP),SW16 1QF,St Leonard's,Lambeth Borough Council,TRUEStockwell,Barr,Sarah,Conservative Party,SW9 0AP,Vassall,Lambeth Borough Council,FALSEStockwell,Barrett,Craig,Conservative Party,SW8 2BU,Stockwell,Lambeth Borough Council,TRUEStockwell,Bigham,Alex,Labour Party,SW8 1BT,Stockwell,Lambeth Borough Council,TRUEStockwell,Bottrall,Anthony Francis,Liberal Democrats,SW9 9TE,Ferndale,Lambeth Borough Council,FALSEStockwell,Correia - sefzick,Fernanda De,Liberal Democrats,SW2 4EP,Brixton Hill,Lambeth Borough Council,FALSEStockwell,Low,Samuel Edwin,The Green Party,SW8 1DB,Stockwell,Lambeth Borough Council,TRUEStockwell,Mcconnell,Matthew David,Liberal Democrats,SW8 1XD,Stockwell,Lambeth Borough Council,TRUEStockwell,Mcmillan,Robert Andrew,Conservative Party,SW8 4RP,Stockwell,Lambeth Borough Council,TRUEStockwell,Rosa,Guilherme,Labour Party,SW16 2UL,Streatham Wells,Lambeth Borough Council,FALSEStockwell,Santos,Joana Pedros,Trade Unionists and Socialists Coalition,SW9 6XA,Vassall,Lambeth Borough Council,FALSEStockwell,Tschepp,Maritza Cecelia,The Green Party,SW8 2PB,Stockwell,Lambeth Borough Council,TRUEStockwell,Ville,David James,The Green Party,SW8 4TN,Larkhall,Lambeth Borough Council,FALSEStockwell,Walker,Imogen,Labour Party,SW4 8BS,Clapham Common,Lambeth Borough Council,FALSEStreatham Hill,Atkins,Elizabeth Ann,Labour Party,SW2 3LB,Streatham Hill,Lambeth Borough Council,TRUEStreatham Hill,Bailey,Elaine Tamara,Conservative Party,SW16 1NG,St Leonard's,Lambeth Borough Council,FALSEStreatham Hill,Bryant,David,The Green Party,SW2 4SZ,Streatham Hill,Lambeth Borough Council,TRUEStreatham Hill,Caspell,James John,The Green Party,SW2 3TN,Streatham Hill,Lambeth Borough Council,TRUEStreatham Hill,Chowdhury,Rezina Akhtar,Labour Party,SW2 3SS,Streatham Hill,Lambeth Borough Council,TRUEStreatham Hill,Clyne,Jeremy Searle,Liberal Democrats,SW16 1LD,St Leonard's,Lambeth Borough Council,FALSEStreatham Hill,Harris,Kriss,Independent,SW16 5JZ,Streatham South,Lambeth Borough Council,FALSEStreatham Hill,Henwood,Phillip William,Conservative Party,SW16 1AZ,St Leonard's,Lambeth Borough Council,FALSEStreatham Hill,Lumsden,Ashley Guthrie,Liberal Democrats,SW2 3SL,Streatham Hill,Lambeth Borough Council,TRUEStreatham Hill,Maurice-jones,Leon,The Green Party,SW2 3TU,Streatham Hill,Lambeth Borough Council,TRUEStreatham Hill,Ogden,Carita Meryt,Liberal Democrats,SW16 1JB,St Leonard's,Lambeth Borough Council,FALSEStreatham Hill,Simpson,Iain Edward,Labour Party,SW2 1LD,Coldharbour,Lambeth Borough Council,FALSEStreatham Hill,Wallace,Mark Edwin,Conservative Party,SW2 3BH,Streatham Hill,Lambeth Borough Council,TRUEStreatham Hill,Younghusband,Peter Richard,UK Independence Party (UKIP),SW2 4HT,Streatham Hill,Lambeth Borough Council,TRUEStreatham South,Adilypour,Danial,Labour Party,SW16 6AD,St Leonard's,Lambeth Borough Council,FALSEStreatham South,Ahmed,Nazir,Liberal Democrats,SW16 3DJ,Streatham South,Lambeth Borough Council,TRUEStreatham South,Ali,Ahmad,Liberal Democrats,SW16 5XQ,Streatham South,Lambeth Borough Council,TRUEStreatham South,Guinness,Jonathan Henry,Conservative Party,SW4 9JS,Clapham Common,Lambeth Borough Council,FALSEStreatham South,Hinkson,Emma,The Green Party,SW16 3PB,Streatham South,Lambeth Borough Council,TRUEStreatham South,Kazantzis,John,Labour Party,SW16 1JF,St Leonard's,Lambeth Borough Council,FALSEStreatham South,Melia,Nigel Marvin,The Green Party,SW2 3TU,Streatham Hill,Lambeth Borough Council,FALSEStreatham South,Morfey,Karen Angela,Liberal Democrats,SW16 5DS,Streatham South,Lambeth Borough Council,TRUEStreatham South,Smith,Helen Patricia,Conservative Party,SW16 5LJ,Streatham South,Lambeth Borough Council,TRUEStreatham South,Spencer,Benjamin John,The Green Party,SW16 6LP,St Leonard's,Lambeth Borough Council,FALSEStreatham South,Wharton,Jack Alexander,Conservative Party,SW16 5LW,Streatham South,Lambeth Borough Council,TRUEStreatham South,Wilcox,Clair,Labour Party,SW16 2AN,Streatham Wells,Lambeth Borough Council,FALSEStreatham Wells,Best,Judith,Liberal Democrats,SW16 2DE,Streatham Wells,Lambeth Borough Council,TRUEStreatham Wells,Braverman,Rachel Jane,The Green Party,SW16 2RD,Streatham Wells,Lambeth Borough Council,TRUEStreatham Wells,Clark,Malcolm,Labour Party,SW16 2LA,Streatham Wells,Lambeth Borough Council,TRUEStreatham Wells,Davies,ALEXANDER,Liberal Democrats,SW16 2ET,Streatham Wells,Lambeth Borough Council,TRUEStreatham Wells,Davies,STANLEY,Conservative Party,SW16 2NF,Streatham Wells,Lambeth Borough Council,TRUEStreatham Wells,Devas,Magda,The Green Party,SW16 2RD,Streatham Wells,Lambeth Borough Council,TRUEStreatham Wells,Freeman,Sheila,The Green Party,SW16 2UN,Streatham Wells,Lambeth Borough Council,TRUEStreatham Wells,Harman,Simon Longton,UK Independence Party (UKIP),SW16 1JJ,St Leonard's,Lambeth Borough Council,FALSEStreatham Wells,Liell,Lisabeth Jane,Conservative Party,SW16 2AF,Streatham Wells,Lambeth Borough Council,TRUEStreatham Wells,Marchant,Daphne,Liberal Democrats,SW16 3BX,Streatham South,Lambeth Borough Council,FALSEStreatham Wells,Seedat,Mohammed,Labour Party,SW16 2DS,Streatham Wells,Lambeth Borough Council,TRUEStreatham Wells,Treppass,Amelie,Labour Party,SW16 2AW,Streatham Wells,Lambeth Borough Council,TRUEStreatham Wells,Tunstall,Teresa Mary,Conservative Party,SW16 3HS,Streatham Wells,Lambeth Borough Council,TRUEThornton,Audsley,Adrian John,The Green Party,SW12 0JD,Thornton,Lambeth Borough Council,TRUEThornton,Brack,Duncan Miles,Liberal Democrats,SW12 0EN,Thornton,Lambeth Borough Council,TRUEThornton,Davie,Edward Thomas,Labour Party,SW16 2JS,Knight's Hill,Lambeth Borough Council,FALSEThornton,De maynard,Vernon Augustus,Conservative Party,SW4 8DG,Thornton,Lambeth Borough Council,TRUEThornton,Hemsley,Simon James,Conservative Party,SW12 0NX,Thornton,Lambeth Borough Council,TRUEThornton,Kershaw,Hannah Louise,The Green Party,SW9 9LJ,Larkhall,Lambeth Borough Council,FALSEThornton,Lankester,Charles,The Green Party,SW12 0EN,Thornton,Lambeth Borough Council,TRUEThornton,Machan,Bruce Anthony,UK Independence Party (UKIP),SW12 0EL,Thornton,Lambeth Borough Council,TRUEThornton,Macnair,Rebecca Susan,Liberal Democrats,SW12 0NX,Thornton,Lambeth Borough Council,TRUEThornton,Morris,Diana Mary,Labour Party,SW12 0DS,Thornton,Lambeth Borough Council,TRUEThornton,Peck,Lib,Labour Party,SW12 0HZ,Thornton,Lambeth Borough Council,TRUEThornton,Pindar,John,Liberal Democrats,SW12 0JP,Thornton,Lambeth Borough Council,TRUEThornton,Young,George Trevor,Conservative Party,SW4 9HW,Clapham Common,Lambeth Borough Council,FALSEThurlow Park,Baker,JEREMY JOHN,Liberal Democrats,SE21 8HT,Thurlow Park,Lambeth Borough Council,TRUEThurlow Park,Baker,MALGORZATA,Liberal Democrats,SE21 8HT,Thurlow Park,Lambeth Borough Council,TRUEThurlow Park,Birley,Anna,Labour Party,SE21 8HY,Thurlow Park,Lambeth Borough Council,TRUEThurlow Park,Cowell,Frederick,Labour Party,SE24 9AA,Village,Southwark Borough Council,FALSEThurlow Park,Deckers dowber,Max,Labour Party,SE21 8LY,Thurlow Park,Lambeth Borough Council,TRUEThurlow Park,Farrow,Matthew Paul,The Green Party,SE21 8LQ,Thurlow Park,Lambeth Borough Council,TRUEThurlow Park,Kimm,Irene Ann,Conservative Party,SE21 8NQ,Thurlow Park,Lambeth Borough Council,TRUEThurlow Park,Lambert,Robin Andrew,UK Independence Party (UKIP),SE24 9BB,Thurlow Park,Lambeth Borough Council,TRUEThurlow Park,Price-tomes,Patricia June,The Green Party,SW2 2QP,Thurlow Park,Lambeth Borough Council,TRUEThurlow Park,Pycock,Graham Harold,Conservative Party,SE27 0LB,Knight's Hill,Lambeth Borough Council,FALSEThurlow Park,Stone-fewings,Jonathan,The Green Party,SE24 9AG,Thurlow Park,Lambeth Borough Council,TRUEThurlow Park,Thurburn,Andrew James,Liberal Democrats,SE21 8EG,Thurlow Park,Lambeth Borough Council,TRUEThurlow Park,Tryl,Luke Michael,Conservative Party,SE24 9DG,Village,Southwark Borough Council,FALSETulse Hill,Aminu,Adedamola,Labour Party,SW2 5HH,Brixton Hill,Lambeth Borough Council,FALSETulse Hill,Atkins,Mary,Labour Party,SW2 2TX,Tulse Hill,Lambeth Borough Council,TRUETulse Hill,Atwell,Elkin Gordon,The Green Party,SW9 7SQ,Coldharbour,Lambeth Borough Council,FALSETulse Hill,Cameron,Marcia,Labour Party,SW2 2SS,Tulse Hill,Lambeth Borough Council,TRUETulse Hill,Cartwright,Lavinia Arden,Conservative Party,SW4 8QF,Clapham Common,Lambeth Borough Council,FALSETulse Hill,Chuter,Jonathan Justin,The Green Party,SE24 0PA,Herne Hill,Lambeth Borough Council,FALSETulse Hill,Coldrick,Matthew Francis,Liberal Democrats,SW2 2JB,Tulse Hill,Lambeth Borough Council,TRUETulse Hill,Curtis,Terence David,Liberal Democrats,SW2 3PF,Tulse Hill,Lambeth Borough Council,TRUETulse Hill,Foster,John Stephen,Liberal Democrats,SW2 4QH,Streatham Hill,Lambeth Borough Council,FALSETulse Hill,O'mant,Kieran,Trade Unionists and Socialists Coalition,SE27 0PQ,Knight's Hill,Lambeth Borough Council,FALSETulse Hill,Read,Martin Lester,Conservative Party,SW12 0DR,Thornton,Lambeth Borough Council,FALSETulse Hill,Richards,Marcel Anthony,Trade Unionists and Socialists Coalition,SE5 0RS,Vassall,Lambeth Borough Council,FALSETulse Hill,White,John Bryan,Conservative Party,SW4 8QF,Clapham Common,Lambeth Borough Council,FALSETulse Hill,Wynter,William Joseph,The Green Party,SE5 8EG,Herne Hill,Lambeth Borough Council,FALSEVassall,Abbott,Paul Thomas,Conservative Party,SW9 0DX,Oval,Lambeth Borough Council,FALSEVassall,Avebury,Lindsay Jean,Liberal Democrats,SE5 9LH,Vassall,Lambeth Borough Council,TRUEVassall,Barr,Stuart David,Conservative Party,SW9 0AP,Vassall,Lambeth Borough Council,TRUEVassall,Chapman,Mark Raymond,The Pirate Party,SW9 6HU,Vassall,Lambeth Borough Council,TRUEVassall,Cole,Celia Esme Louise,The Green Party,SW9 6HU,Vassall,Lambeth Borough Council,TRUEVassall,Dyer,Jacqui,Labour Party,SW9 7BH,Vassall,Lambeth Borough Council,TRUEVassall,Everett,Owen,The Green Party,SW9 7BJ,Vassall,Lambeth Borough Council,TRUEVassall,Gadsby,Paul,Labour Party,SW9 0DX,Oval,Lambeth Borough Council,FALSEVassall,Gallop,Anne-Marie,Labour Party,SW9 6JT,Vassall,Lambeth Borough Council,TRUEVassall,Gething,Joshua Jonathan,Conservative Party,SW8 2JA,Oval,Lambeth Borough Council,FALSEVassall,Montague,Dalton Eric,Trade Unionists and Socialists Coalition,SW9 7HS,Coldharbour,Lambeth Borough Council,FALSEVassall,Thomas,Colette Dawn,Liberal Democrats,SW9 0RR,Vassall,Lambeth Borough Council,TRUEVassall,Walton,John Noah,The Green Party,SW9 7BJ,Vassall,Lambeth Borough Council,TRUEVassall,Wyard,Dominic Karma,Liberal Democrats,SW8 2RR,Larkhall,Lambeth Borough Council,FALSE
