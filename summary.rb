@@ -7,11 +7,14 @@ locals_count = candidates.select{|c| c["ward"] == c["lives_in_ward"]}.group_by {
 scores =  candidate_count.reduce({}) {|m, (party, count)| m[party] = (locals_count[party].to_f / count * 100).to_i; m }
 
 count = 1
+
+puts "| Rank | Party | Percentage | Candidates who live in same | Total candidates | Ratio |"  
+puts "| ---- | ----- | -----------| ------|"
 scores.invert.sort.reverse.map do |rank, party|
 
   candidates = candidate_count[party] || 0
   locals = locals_count[party] || 0
-  puts "#{count}.\t#{party}:\t#{rank}%\t(#{locals}/#{candidates})"
+  puts "| #{count} | #{party} | #{rank}% | #{locals} | #{candidates} | (#{locals}/#{candidates}) |"
   count += 1
 end
 
